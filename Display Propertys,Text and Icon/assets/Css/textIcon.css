@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:antiquewhite;
+}
+
+.box{
+    width: 1000px;
+    margin-top: 15%;
+    margin-left: 26%;
+    padding: 1%;
+}
+i{
+    font-size: 150px;
+    margin-right: 10%;
+    padding-bottom: 15%;
+    display: inline-block;
+    color:rgb(14, 14, 54);
+
+
+
+}
